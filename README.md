@@ -2,7 +2,7 @@ Descrição do Trabalho
 
 O trabalho consiste na criação de um RPC server e client onde o utilizador poderá converter um ficheiro word para pdf, como extra o RPC server tem a habilidade de fazer a conversão do ficheiro a partir de um path absoluto ou relativo.
 
-![Alt text](RPCServer/image.png)
+![Alt text](RPCServer/image-0.png)
 
 
 

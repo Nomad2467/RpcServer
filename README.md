@@ -39,29 +39,29 @@ Funcionamento do trabalho
 Server:
 
 
-![Alt text](image-1.png)
+![Alt text](RPCServer/image-1.png)
 
 Utilização das bibliotecas e método de segurança.
 
 
-![Alt text](image-2.png)
+![Alt text](RPCServer/image-2.png)
 
 Criação do servidor com o endereço localhost e porta 8000.
 
 
-![Alt text](image-3.png)
+![Alt text](RPCServer/image-3.png)
 
 Conversão do conteúdo do ficheiro docx para bytes, criação do path para podermos guardar o ficheiro pdf no mesmo local que o docx se encontrava, guardar o conteúdo do docx num ficheiro temporário.
 
 
 
 
-![Alt text](image-4.png)
+![Alt text](RPCServer/image-4.png)
 
 Conversão dos conteúdos do ficheiro docx para pdf.
 
 
-![Alt text](image-5.png)
+![Alt text](RPCServer/image-5.png)
 
 Remover os ficheiros temporários que foram criados na conversão, aplicar uma função de aviso de erro, e fazer com que o servidor corra para sempre.
 
@@ -79,17 +79,17 @@ Remover os ficheiros temporários que foram criados na conversão, aplicar uma f
 Cliente:
 
 
-![Alt text](image-6.png)
+![Alt text](RPCServer/image-6.png)
 
 Utilização das bibliotecas e envio do ficheiro docx.
 
 
-![Alt text](image-7.png)
+![Alt text](RPCServer/image-7.png)
 
 Utilizando o proxy para enviar pedidos ao servidor a partir do endereço localhost:8000/RPC2, Conversão do conteúdo do ficheiro Docx antes de enviar para o servidor.
 
 
-![Alt text](image-8.png)
+![Alt text](RPCServer/image-8.png)
 
 Guardar o conteúdo convertido pelo servidor para um ficheiro pdf na nossa máquina no mesmo diretório que se encontrava o ficheiro docx.
 Conclusão
